@@ -1,7 +1,7 @@
 <?php
 
-echo "Vamos programar.";
+echo "Esse é do GitHub.";
 
-echo "Olá Mark!";
+echo "";
 
 ?>
