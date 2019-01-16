@@ -1,5 +1,5 @@
 <?php
 
-echo "Olá Mark!!!!!!!!!!";
+echo "Alteração no script concluída.";
 
 ?>
